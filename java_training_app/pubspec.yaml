@@ -1,0 +1,7 @@
+name: java_training_app
+description: A sample Polymer application
+dependencies:
+    polymer: any
+transformers:
+- polymer:
+    entry_points: web/java_training_app.html

@@ -1,0 +1,1734 @@
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/java_training_app.html","message":"Besides the initPolymer invocation, to run a polymer application you need to include the following HTML import: <link rel=\"import\" href=\"packages/polymer/polymer.html\">. This will include the common polymer logic needed to boostrap your application.","line":15,"charStart":460,"charEnd":466}}]
+build.dart finished [4107 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+[{"method":"warning","params":{"file":"web/java_training_app.html","message":"Besides the initPolymer invocation, to run a polymer application you need to include the following HTML import: <link rel=\"import\" href=\"packages/polymer/polymer.html\">. This will include the common polymer logic needed to boostrap your application.","line":14,"charStart":407,"charEnd":413}}]
+build.dart finished [1351 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+[{"method":"warning","params":{"file":"web/java_training_app.html","message":"Besides the initPolymer invocation, to run a polymer application you need to include the following HTML import: <link rel=\"import\" href=\"packages/polymer/polymer.html\">. This will include the common polymer logic needed to boostrap your application.","line":13,"charStart":326,"charEnd":332}}]
+build.dart finished [1723 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1372 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+[{"method":"warning","params":{"file":"web/java_training_app.html","message":"Besides the initPolymer invocation, to run a polymer application you need to include the following HTML import: <link rel=\"import\" href=\"packages/polymer/polymer.html\">. This will include the common polymer logic needed to boostrap your application.","line":14,"charStart":358,"charEnd":364}}]
+build.dart finished [1385 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1492 ms]
+
+---
+build.dart --machine --changed=build/web/clickcounter.dart --changed=build/web/clickcounter.html --changed=buil...
+
+build.dart finished [1416 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1405 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1448 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+
+build.dart finished [2036 ms]
+
+---
+build.dart --machine --changed=web/engine/images.dart
+
+build.dart finished [1806 ms]
+
+---
+build.dart --machine --removed=web/engine/images.dart
+
+build.dart finished [5523 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [1347 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1426 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1433 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1512 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1528 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_opic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1870 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_opic/tutorial-topic.dart
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1668 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+
+build.dart finished [1356 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+[{"method":"error","params":{"file":"web/engine/web_components/web_components.html","message":"couldn't find imported asset \"web/engine/web_components/tutorial_topic/tutorial-topic.html\" in package \"java_training_app\".","line":2,"charStart":34,"charEnd":95}}]
+build failed with errors: {Transform polymer (Linter) on java_training_app|web/engine/web_components/web_components.html threw error: couldn't find imported asset "web/engine/web_components/tutorial_topic/tutorial-topic.html" in package "java_training_app".}
+build.dart finished [1303 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+[{"method":"warning","params":{"file":"web/engine/web_components/web_components.html","message":"absolute paths not allowed: \"/tutorial_topic/tutorial-topic.html\"","line":2,"charStart":34,"charEnd":96}}]
+build.dart finished [1578 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+[{"method":"error","params":{"file":"web/engine/web_components/web_components.html","message":"couldn't find imported asset \"web/engine/web_components/tutorial_topic/tutorial-topic.html\" in package \"java_training_app\".","line":2,"charStart":34,"charEnd":95}}]
+build failed with errors: {Transform polymer (Linter) on java_training_app|web/engine/web_components/web_components.html threw error: couldn't find imported asset "web/engine/web_components/tutorial_topic/tutorial-topic.html" in package "java_training_app".}
+build.dart finished [1311 ms]
+
+---
+build.dart --machine --removed=web/engine/web_components/tutorial_opic/tutorial-topic.dart --removed=web/engine...
+[{"method":"error","params":{"file":"web/engine/web_components/web_components.html","message":"couldn't find imported asset \"web/engine/web_components/tutorial_topic/tutorial-topic.html\" in package \"java_training_app\".","line":2,"charStart":34,"charEnd":95}}]
+build failed with errors: {Transform polymer (Linter) on java_training_app|web/engine/web_components/web_components.html threw error: couldn't find imported asset "web/engine/web_components/tutorial_topic/tutorial-topic.html" in package "java_training_app".}
+build.dart finished [1479 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+[{"method":"error","params":{"file":"web/engine/web_components/web_components.html","message":"couldn't find imported asset \"web/engine/web_components/tutorial_topic/tutorial-topic.html\" in package \"java_training_app\".","line":2,"charStart":34,"charEnd":95}}]
+build failed with errors: {Transform polymer (Linter) on java_training_app|web/engine/web_components/web_components.html threw error: couldn't find imported asset "web/engine/web_components/tutorial_topic/tutorial-topic.html" in package "java_training_app".}
+build.dart finished [1600 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2049 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1676 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+
+build.dart finished [1315 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/web_components.html
+
+build.dart finished [1328 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1298 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1422 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+[{"method":"warning","params":{"file":"web/java_training_app.html","message":"definition for Polymer element with tag name \"click-counter\" not found.","line":20,"charStart":562,"charEnd":587}}]
+build.dart finished [1260 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1303 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1385 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [1541 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"error","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Missing tag name of the custom element. Please include an attribute like 'name=\"your-tag-name\"'.","line":1,"charStart":0,"charEnd":17}}]
+build failed with errors: {Transform polymer (Linter) on java_training_app|web/engine/web_components/tutorial_topic/tutorial-topic.html threw error: Missing tag name of the custom element. Please include an attribute like 'name="your-tag-name"'.}
+build.dart finished [1460 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1324 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1338 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1372 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1605 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1470 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1435 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1406 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1350 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1486 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1557 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1540 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1467 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Wrong script type, expected type=\"application/dart\".","line":7,"charStart":99,"charEnd":150}}]
+build.dart finished [1591 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1055 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1120 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1652 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1083 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1161 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1261 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1115 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1090 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1130 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1110 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1134 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1332 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1110 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1143 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1398 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1214 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1360 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1072 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1306 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1055 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1130 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1322 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1383 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1391 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1233 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1299 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1096 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1394 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [2910 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1262 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1273 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1474 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1330 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1199 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1382 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1286 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1587 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1564 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1069 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1100 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1273 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1523 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1429 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1246 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1425 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1173 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1253 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1412 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1357 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1591 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1222 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1179 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1015 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1151 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1164 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1211 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1154 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1138 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2686 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1491 ms]
+
+---
+build.dart --machine --removed=build/web/clickcounter.dart --removed=build/web/clickcounter.html --removed=buil...
+
+build.dart finished [2632 ms]
+
+---
+build.dart --machine --changed=build/web/clickcounter.dart --changed=build/web/clickcounter.html --changed=buil...
+
+build.dart finished [1143 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1076 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1228 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1187 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1300 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1133 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1172 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1143 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1029 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1135 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1160 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1057 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1271 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character after attribute value.","line":11,"charStart":304,"charEnd":342}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":347}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":351}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character after attribute value.","line":11,"charStart":304,"charEnd":342}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":347}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":351}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character after attribute value.","line":11,"charStart":304,"charEnd":342}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":347}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Invalid character in attribute name","line":11,"charStart":304,"charEnd":351}}]
+build.dart finished [1099 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1029 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1147 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1164 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1090 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1107 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1028 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1118 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1285 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1152 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1376 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1293 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1192 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1177 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1049 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1080 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1085 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1373 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1341 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1105 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1213 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1198 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1231 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1410 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1261 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1166 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1182 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1177 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1854 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1573 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2362 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1345 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1792 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1536 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1729 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1388 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1079 ms]
+
+---
+build.dart --machine --changed=web/engine/images/jvm.jpeg
+
+build.dart finished [1784 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":394,"charEnd":400}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":394,"charEnd":400}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":394,"charEnd":400}}]
+build.dart finished [1935 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":401,"charEnd":407}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":401,"charEnd":407}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (img). Ignored.","line":14,"charStart":401,"charEnd":407}}]
+build.dart finished [1759 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1448 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1331 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1994 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3151 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1276 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1550 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1238 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1395 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2473 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1590 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2131 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1790 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2136 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2145 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [3037 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2590 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2503 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1979 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1893 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2441 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1602 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2854 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1908 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2086 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2244 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1962 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2533 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2027 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2145 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1630 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1540 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1444 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1579 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1360 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1343 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1279 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1184 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1268 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1377 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1684 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2582 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1213 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1331 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1319 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1143 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1694 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1605 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1475 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2125 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1518 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1271 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1311 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1393 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1524 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1311 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1396 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1215 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1309 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1458 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1359 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1202 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1254 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1179 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1185 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1481 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1449 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character in comment found.","line":10,"charStart":105,"charEnd":119}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character in comment found.","line":10,"charStart":105,"charEnd":119}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected character in comment found.","line":10,"charStart":105,"charEnd":119}}]
+build.dart finished [1454 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1344 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1448 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1302 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1326 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1111 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1215 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1283 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1381 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1325 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1388 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1418 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1347 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2295 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1675 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1465 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1446 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1301 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1128 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1102 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1158 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1255 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":895,"charEnd":906}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":979,"charEnd":997}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":101,"charEnd":106}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":895,"charEnd":906}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":979,"charEnd":997}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":101,"charEnd":106}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":895,"charEnd":906}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":979,"charEnd":997}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":101,"charEnd":106}}]
+build.dart finished [1172 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":903,"charEnd":914}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":987,"charEnd":1005}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":109,"charEnd":114}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":903,"charEnd":914}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":987,"charEnd":1005}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":109,"charEnd":114}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":903,"charEnd":914}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":987,"charEnd":1005}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":109,"charEnd":114}}]
+build.dart finished [1390 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+build.dart finished [1373 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+build.dart finished [1164 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+build.dart finished [1162 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (template). Ignored.","line":35,"charStart":902,"charEnd":913}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end tag (polymer-element). Ignored.","line":37,"charStart":986,"charEnd":1004}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":7,"charStart":108,"charEnd":113}}]
+build.dart finished [1123 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1243 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end of file in comment.","line":14,"charStart":260,"charEnd":982}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":2,"charStart":42,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end of file in comment.","line":14,"charStart":260,"charEnd":982}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":2,"charStart":42,"charEnd":52}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Unexpected end of file in comment.","line":14,"charStart":260,"charEnd":982}}]
+[{"method":"warning","params":{"file":"web/engine/web_components/tutorial_topic/tutorial-topic.html","message":"Expected closing tag. Unexpected end of file.","line":2,"charStart":42,"charEnd":52}}]
+build.dart finished [1334 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1154 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1067 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2555 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1396 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1270 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1228 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2595 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1193 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1293 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1332 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1067 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1146 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1248 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1440 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1439 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1443 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3489 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1418 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1338 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1446 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1891 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1540 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1549 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [3449 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1866 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1793 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [3342 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1423 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1933 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1501 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1784 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1903 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [3395 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1306 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1734 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [3958 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1530 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1389 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1617 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [1626 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2048 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1548 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [4435 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1805 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1511 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [1516 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1630 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3793 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1379 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1376 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [2524 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3807 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [4722 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1888 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3202 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3467 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3535 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1760 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1978 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1407 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [1374 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3143 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.html
+
+build.dart finished [3165 ms]
+
+---
+build.dart --machine --changed=web/java_training_app.html
+
+build.dart finished [2000 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2966 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [5290 ms]
+
+---
+build.dart --machine --changed=web/engine/images/Untitled.png
+
+build.dart finished [2366 ms]
+
+---
+build.dart --machine --changed=web/engine/web_components/tutorial_topic/tutorial-topic.dart
+
+build.dart finished [2070 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [9711 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [16755 ms]
+

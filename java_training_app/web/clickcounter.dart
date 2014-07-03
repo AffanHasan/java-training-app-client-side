@@ -14,4 +14,3 @@ class ClickCounter extends PolymerElement {
     count++;
   }
 }
-
